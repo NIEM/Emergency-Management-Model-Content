@@ -1,9 +1,9 @@
 Emergency-Management-Model-Content
 ==================================
 
-NIEM Emergency Management domain model content.  
+NIEM Emergency Management (EM) domain model content.  
 
-Please update the model content .xls file with your emergency management business requriements. 
+Please update the EM model content post 3.0 change request .xls file with your emergency management business requirements. 
 
 For more information, visit NIEM.gov/EM
 
